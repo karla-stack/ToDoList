@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|d:\\to-do\\todolistfront\\fronttodolist\\todolistfrontendjs\\todolistfrontendjs\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|solutionrelative:todolistfrontendjs\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|d:\\to-do\\todolistfront\\fronttodolist\\todolistfrontendjs\\todolistfrontendjs\\index1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|solutionrelative:todolistfrontendjs\\index1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|d:\\to-do\\todolistfront\\fronttodolist\\todolistfrontendjs\\todolistfrontendjs\\index2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|solutionrelative:todolistfrontendjs\\index2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|d:\\to-do\\todolistfront\\fronttodolist\\todolistfrontendjs\\todolistfrontendjs\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|solutionrelative:todolistfrontendjs\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|d:\\to-do\\todolistfront\\fronttodolist\\todolistfrontendjs\\todolistfrontendjs\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|solutionrelative:todolistfrontendjs\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|d:\\to-do\\todolistfront\\fronttodolist\\todolistfrontendjs\\todolistfrontendjs\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|solutionrelative:todolistfrontendjs\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|d:\\to-do\\todolistfront\\fronttodolist\\todolistfrontendjs\\todolistfrontendjs\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|solutionrelative:todolistfrontendjs\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|d:\\to-do\\todolistfront\\fronttodolist\\todolistfrontendjs\\todolistfrontendjs\\todolistfrontendjs.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{62CD7C69-DD5E-4302-A4E9-85FE07D42962}|ToDoListFrontendJS\\ToDoListFrontendJS.esproj|solutionrelative:todolistfrontendjs\\todolistfrontendjs.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "ToDoListFrontendJS\\CHANGELOG.md",
+              "ToolTip": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\CHANGELOG.md",
+              "RelativeToolTip": "ToDoListFrontendJS\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-22T03:40:24.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoListFrontendJS",
+              "DocumentMoniker": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\ToDoListFrontendJS.esproj",
+              "RelativeDocumentMoniker": "ToDoListFrontendJS\\ToDoListFrontendJS.esproj",
+              "ToolTip": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\ToDoListFrontendJS.esproj",
+              "RelativeToolTip": "ToDoListFrontendJS\\ToDoListFrontendJS.esproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-21T23:38:12.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index2.html",
+              "DocumentMoniker": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\index2.html",
+              "RelativeDocumentMoniker": "ToDoListFrontendJS\\index2.html",
+              "ToolTip": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\index2.html",
+              "RelativeToolTip": "ToDoListFrontendJS\\index2.html",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvy0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-21T23:13:44.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index1.html",
+              "DocumentMoniker": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\index1.html",
+              "RelativeDocumentMoniker": "ToDoListFrontendJS\\index1.html",
+              "ToolTip": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\index1.html",
+              "RelativeToolTip": "ToDoListFrontendJS\\index1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-21T23:04:41.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\eslint.config.js",
+              "RelativeDocumentMoniker": "ToDoListFrontendJS\\eslint.config.js",
+              "ToolTip": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\eslint.config.js",
+              "RelativeToolTip": "ToDoListFrontendJS\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-21T22:51:51.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\StyleSheet.css",
+              "RelativeDocumentMoniker": "ToDoListFrontendJS\\StyleSheet.css",
+              "ToolTip": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\StyleSheet.css",
+              "RelativeToolTip": "ToDoListFrontendJS\\StyleSheet.css",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAEAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-21T21:36:12.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\app.js",
+              "RelativeDocumentMoniker": "ToDoListFrontendJS\\app.js",
+              "ToolTip": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\app.js*",
+              "RelativeToolTip": "ToDoListFrontendJS\\app.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-21T21:35:36.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\index.html",
+              "RelativeDocumentMoniker": "ToDoListFrontendJS\\index.html",
+              "ToolTip": "D:\\TO-DO\\ToDoListFront\\FrontToDoList\\ToDoListFrontendJS\\ToDoListFrontendJS\\index.html",
+              "RelativeToolTip": "ToDoListFrontendJS\\index.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-21T21:35:10.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
